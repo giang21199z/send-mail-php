@@ -1,0 +1,16 @@
+[27-Aug-2019 14:03:56 UTC] PHP Notice:  Undefined variable: products_arr in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 7
+[27-Aug-2019 14:08:25 UTC] PHP Notice:  Undefined variable: products_arr in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 7
+[27-Aug-2019 14:15:31 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 14
+[27-Aug-2019 14:16:22 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 14
+[27-Aug-2019 14:17:03 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 15
+[27-Aug-2019 14:18:13 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 16
+[27-Aug-2019 14:18:38 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 13
+[27-Aug-2019 14:18:38 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 16
+[27-Aug-2019 14:18:48 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 13
+[27-Aug-2019 14:19:48 UTC] PHP Notice:  Array to string conversion in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 13
+[27-Aug-2019 14:20:27 UTC] PHP Notice:  Trying to get property of non-object in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 13
+[27-Aug-2019 14:20:45 UTC] PHP Warning:  Illegal string offset 'fullname' in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 13
+[27-Aug-2019 14:26:44 UTC] PHP Notice:  Undefined index: $phone in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 13
+[27-Aug-2019 14:26:44 UTC] PHP Notice:  Undefined index: $email in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 14
+[27-Aug-2019 14:26:44 UTC] PHP Notice:  Undefined index: $message in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 15
+[27-Aug-2019 14:34:36 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/wdalatt19te/api.dalattravelmall.net/index.php on line 16
